@@ -3,5 +3,156 @@
   "edition": "2026-10-20",
   "editionLabel": "20 ottobre 2026",
   "status": "bozza",
-  "articles": []
+  "articles": [
+    {
+      "id": "2026-10-20-1",
+      "category": "Italia",
+      "title": "Manovra, confronto ancora aperto sul contributo delle banche",
+      "summary": "La maggioranza prosegue le trattative sulla legge di bilancio e sul contributo richiesto alle banche.",
+      "facts": [],
+      "body": [
+        "La maggioranza prosegue le trattative sulla legge di bilancio e sul contributo richiesto alle banche."
+      ],
+      "source": "ANSA",
+      "sourceDate": "2026-10-19T12:00:00+02:00",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/19/meloni-e-giorgetti-blindano-la-manovra-si-cerca-unintesa-politica-sulle-banche_c3e86596-c36b-431a-8d41-4a3e6b968439.html",
+      "theme": "indigo",
+      "eyebrow": "Italia"
+    },
+    {
+      "id": "2026-10-20-2",
+      "category": "Italia",
+      "title": "Milano, confronto sulle misure di sicurezza dopo gli scontri",
+      "summary": "Dopo le violenze a Milano, il governo valuta nuove misure. Mattarella chiede di approfondire le cause degli episodi.",
+      "facts": [],
+      "body": [
+        "Dopo le violenze a Milano, il governo valuta nuove misure. Mattarella chiede di approfondire le cause degli episodi."
+      ],
+      "source": "ANSA",
+      "sourceDate": "2026-10-19T12:00:00+02:00",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/mattarella-a-milano-violenze-inaccettabili-serve-unanalisi-approfondita_397d8359-98ac-4ba2-840f-a55dcb988745.html",
+      "theme": "indigo",
+      "eyebrow": "Italia"
+    },
+    {
+      "id": "2026-10-20-3",
+      "category": "Mondo",
+      "title": "Francia, le tensioni politiche pesano sui mercati",
+      "summary": "Proteste e incertezza sui conti pubblici si riflettono su Borsa, titoli di Stato e valuta.",
+      "facts": [],
+      "body": [
+        "Proteste e incertezza sui conti pubblici si riflettono su Borsa, titoli di Stato e valuta."
+      ],
+      "source": "Reuters",
+      "sourceDate": "2026-10-19T12:00:00+02:00",
+      "url": "https://www.reuters.com/business/finance/french-markets-tumble-riots-add-political-crisis-2026-10-19/",
+      "theme": "crimson",
+      "eyebrow": "Mondo"
+    },
+    {
+      "id": "2026-10-20-4",
+      "category": "Mondo",
+      "title": "Trump si dice aperto a colloqui trilaterali con Xi e Putin",
+      "summary": "Il presidente USA ipotizza un confronto sul controllo delle armi nucleari. Nessun vertice è stato annunciato.",
+      "facts": [],
+      "body": [
+        "Il presidente USA ipotizza un confronto sul controllo delle armi nucleari. Nessun vertice è stato annunciato."
+      ],
+      "source": "Reuters",
+      "sourceDate": "2026-10-19T12:00:00+02:00",
+      "url": "https://www.reuters.com/world/china/trump-says-he-is-open-joining-trilateral-meeting-with-xi-putin-2026-10-19/",
+      "theme": "crimson",
+      "eyebrow": "Mondo"
+    },
+    {
+      "id": "2026-10-20-5",
+      "category": "Economia",
+      "title": "Industria tedesca, occupazione in calo dal 2019",
+      "summary": "Secondo l'istituto Ifo, il settore manifatturiero ha perso quasi mezzo milione di posti di lavoro dal 2019.",
+      "facts": [],
+      "body": [
+        "Secondo l'istituto Ifo, il settore manifatturiero ha perso quasi mezzo milione di posti di lavoro dal 2019."
+      ],
+      "source": "Reuters",
+      "sourceDate": "2026-10-19T12:00:00+02:00",
+      "url": "https://www.reuters.com/business/german-industry-has-lost-nearly-half-million-jobs-since-2019-ifo-says-2026-10-19/",
+      "theme": "amber",
+      "eyebrow": "Economia"
+    },
+    {
+      "id": "2026-10-20-6",
+      "category": "Economia",
+      "title": "Porto di Trieste, traffico merci in aumento nei nove mesi",
+      "summary": "Lo scalo giuliano ha movimentato 45,2 milioni di tonnellate nei primi nove mesi del 2026, il 3,1% in più.",
+      "facts": [],
+      "body": [
+        "Lo scalo giuliano ha movimentato 45,2 milioni di tonnellate nei primi nove mesi del 2026, il 3,1% in più."
+      ],
+      "source": "ANSA",
+      "sourceDate": "2026-10-19T12:00:00+02:00",
+      "url": "https://videoembed.ansa.it/sito/notizie/economia/2026/10/19/porto-trieste-nei-9-mesi-movimentate-452-milioni-di-tonnellate-31_6cb9da2d-4843-4ce7-af05-7f2876f4cf60.html",
+      "theme": "amber",
+      "eyebrow": "Economia"
+    },
+    {
+      "id": "2026-10-20-7",
+      "category": "Tecnologia",
+      "title": "Nvidia porta i processori Vera nella piattaforma Modal",
+      "summary": "La società cloud per sviluppatori AI adotterà anche nuove CPU Nvidia, mantenendo una strategia con più fornitori.",
+      "facts": [],
+      "body": [
+        "La società cloud per sviluppatori AI adotterà anche nuove CPU Nvidia, mantenendo una strategia con più fornitori."
+      ],
+      "source": "Reuters",
+      "sourceDate": "2026-10-19T12:00:00+02:00",
+      "url": "https://www.reuters.com/business/nvidia-wins-fast-growing-ai-startup-modal-new-central-processors-2026-10-19/",
+      "theme": "cyan",
+      "eyebrow": "Tecnologia"
+    },
+    {
+      "id": "2026-10-20-8",
+      "category": "Scienza",
+      "title": "Colite ulcerosa, nuovi dati per una terapia sperimentale",
+      "summary": "Uno studio intermedio su emvistegrast segnala miglioramenti rispetto al placebo. Sono necessari ulteriori test.",
+      "facts": [],
+      "body": [
+        "Uno studio intermedio su emvistegrast segnala miglioramenti rispetto al placebo. Sono necessari ulteriori test."
+      ],
+      "source": "Reuters",
+      "sourceDate": "2026-10-19T12:00:00+02:00",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/gileads-pill-succeeds-mid-stage-bowel-disease-trial-2026-10-19/",
+      "theme": "violet",
+      "eyebrow": "Scienza"
+    },
+    {
+      "id": "2026-10-20-9",
+      "category": "Sport",
+      "title": "Serie A, il Torino vince 3-0 sul campo del Parma",
+      "summary": "Doppietta di Simeone e rete di Adams nella vittoria dei granata nel posticipo.",
+      "facts": [],
+      "body": [
+        "Doppietta di Simeone e rete di Adams nella vittoria dei granata nel posticipo."
+      ],
+      "source": "ANSA",
+      "sourceDate": "2026-10-19T12:00:00+02:00",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/19/serie-a-doppietta-di-simeone-il-torino-passa-a-parma-con-un-tris_b3d3881b-9a73-4990-b288-8689e6be7814.html",
+      "theme": "royal",
+      "eyebrow": "Sport"
+    },
+    {
+      "id": "2026-10-20-10",
+      "category": "Sport",
+      "title": "Tennis, Sinner mantiene la vetta del ranking ATP",
+      "summary": "Il tennista italiano resta numero uno della classifica fino almeno al primo novembre.",
+      "facts": [],
+      "body": [
+        "Il tennista italiano resta numero uno della classifica fino almeno al primo novembre."
+      ],
+      "source": "ANSA",
+      "sourceDate": "2026-10-19T12:00:00+02:00",
+      "url": "https://videoembed.ansa.it/sito/notizie/sport/tennis/2026/10/19/tennis-sinner-95-settimane-in-vetta-cobolli-sesto-in-classifica_8f643cd0-3a5a-47ad-91f6-29786a9e7b02.html",
+      "theme": "royal",
+      "eyebrow": "Sport"
+    }
+  ]
 }
