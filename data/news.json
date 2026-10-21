@@ -1,156 +1,168 @@
 {
   "version": 1,
-  "edition": "2026-10-20",
-  "editionLabel": "20 ottobre 2026",
-  "status": "bozza",
+  "edition": "2026-10-21",
+  "editionLabel": "21 ottobre 2026",
+  "status": "pubblicata",
   "articles": [
     {
-      "id": "2026-10-20-1",
+      "id": "2026-10-21-01",
       "category": "Italia",
-      "title": "Manovra, confronto ancora aperto sul contributo delle banche",
-      "summary": "La maggioranza prosegue le trattative sulla legge di bilancio e sul contributo richiesto alle banche.",
-      "facts": [],
+      "title": "Decreto sicurezza, confronto sui poteri ai militari",
+      "summary": "Il Quirinale ha sollevato un'obiezione sui poteri di polizia giudiziaria previsti per i militari nel decreto sicurezza.",
+      "facts": [
+        "Il Quirinale ha sollevato un'obiezione sui poteri di polizia giudiziaria previsti per i militari nel decreto sicurezza."
+      ],
       "body": [
-        "La maggioranza prosegue le trattative sulla legge di bilancio e sul contributo richiesto alle banche."
+        "Il Quirinale ha sollevato un'obiezione sui poteri di polizia giudiziaria previsti per i militari nel decreto sicurezza.",
+        "Per ulteriori dettagli e aggiornamenti consulta la fonte indicata."
       ],
       "source": "ANSA",
-      "sourceDate": "2026-10-19T12:00:00+02:00",
-      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/19/meloni-e-giorgetti-blindano-la-manovra-si-cerca-unintesa-politica-sulle-banche_c3e86596-c36b-431a-8d41-4a3e6b968439.html",
+      "sourceDate": "2026-10-20T18:06:00+02:00",
+      "url": "https://www.ansa.it/sito/notizie/topnews/index_5.shtml",
       "theme": "indigo",
       "eyebrow": "Italia"
     },
     {
-      "id": "2026-10-20-2",
+      "id": "2026-10-21-02",
       "category": "Italia",
-      "title": "Milano, confronto sulle misure di sicurezza dopo gli scontri",
-      "summary": "Dopo le violenze a Milano, il governo valuta nuove misure. Mattarella chiede di approfondire le cause degli episodi.",
-      "facts": [],
+      "title": "Protesta degli autotrasportatori, disagi per i caseifici",
+      "summary": "La protesta degli autotrasportatori nel Sud sta creando difficoltà anche alla filiera della mozzarella di bufala Dop.",
+      "facts": [
+        "La protesta degli autotrasportatori nel Sud sta creando difficoltà anche alla filiera della mozzarella di bufala Dop."
+      ],
       "body": [
-        "Dopo le violenze a Milano, il governo valuta nuove misure. Mattarella chiede di approfondire le cause degli episodi."
+        "La protesta degli autotrasportatori nel Sud sta creando difficoltà anche alla filiera della mozzarella di bufala Dop.",
+        "Per ulteriori dettagli e aggiornamenti consulta la fonte indicata."
       ],
       "source": "ANSA",
-      "sourceDate": "2026-10-19T12:00:00+02:00",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/mattarella-a-milano-violenze-inaccettabili-serve-unanalisi-approfondita_397d8359-98ac-4ba2-840f-a55dcb988745.html",
+      "sourceDate": "2026-10-21T10:18:00+02:00",
+      "url": "https://videoembed.ansa.it/sito/notizie/economia/index.shtml",
       "theme": "indigo",
       "eyebrow": "Italia"
     },
     {
-      "id": "2026-10-20-3",
+      "id": "2026-10-21-03",
       "category": "Mondo",
-      "title": "Francia, le tensioni politiche pesano sui mercati",
-      "summary": "Proteste e incertezza sui conti pubblici si riflettono su Borsa, titoli di Stato e valuta.",
-      "facts": [],
-      "body": [
-        "Proteste e incertezza sui conti pubblici si riflettono su Borsa, titoli di Stato e valuta."
+      "title": "Ucraina, Kiev denuncia un attacco russo a un ospedale",
+      "summary": "Secondo le autorità ucraine, un attacco russo ha colpito un ospedale di Kiev, causando almeno un ferito.",
+      "facts": [
+        "Secondo le autorità ucraine, un attacco russo ha colpito un ospedale di Kiev, causando almeno un ferito."
       ],
-      "source": "Reuters",
-      "sourceDate": "2026-10-19T12:00:00+02:00",
-      "url": "https://www.reuters.com/business/finance/french-markets-tumble-riots-add-political-crisis-2026-10-19/",
-      "theme": "crimson",
-      "eyebrow": "Mondo"
-    },
-    {
-      "id": "2026-10-20-4",
-      "category": "Mondo",
-      "title": "Trump si dice aperto a colloqui trilaterali con Xi e Putin",
-      "summary": "Il presidente USA ipotizza un confronto sul controllo delle armi nucleari. Nessun vertice è stato annunciato.",
-      "facts": [],
       "body": [
-        "Il presidente USA ipotizza un confronto sul controllo delle armi nucleari. Nessun vertice è stato annunciato."
-      ],
-      "source": "Reuters",
-      "sourceDate": "2026-10-19T12:00:00+02:00",
-      "url": "https://www.reuters.com/world/china/trump-says-he-is-open-joining-trilateral-meeting-with-xi-putin-2026-10-19/",
-      "theme": "crimson",
-      "eyebrow": "Mondo"
-    },
-    {
-      "id": "2026-10-20-5",
-      "category": "Economia",
-      "title": "Industria tedesca, occupazione in calo dal 2019",
-      "summary": "Secondo l'istituto Ifo, il settore manifatturiero ha perso quasi mezzo milione di posti di lavoro dal 2019.",
-      "facts": [],
-      "body": [
-        "Secondo l'istituto Ifo, il settore manifatturiero ha perso quasi mezzo milione di posti di lavoro dal 2019."
-      ],
-      "source": "Reuters",
-      "sourceDate": "2026-10-19T12:00:00+02:00",
-      "url": "https://www.reuters.com/business/german-industry-has-lost-nearly-half-million-jobs-since-2019-ifo-says-2026-10-19/",
-      "theme": "amber",
-      "eyebrow": "Economia"
-    },
-    {
-      "id": "2026-10-20-6",
-      "category": "Economia",
-      "title": "Porto di Trieste, traffico merci in aumento nei nove mesi",
-      "summary": "Lo scalo giuliano ha movimentato 45,2 milioni di tonnellate nei primi nove mesi del 2026, il 3,1% in più.",
-      "facts": [],
-      "body": [
-        "Lo scalo giuliano ha movimentato 45,2 milioni di tonnellate nei primi nove mesi del 2026, il 3,1% in più."
+        "Secondo le autorità ucraine, un attacco russo ha colpito un ospedale di Kiev, causando almeno un ferito.",
+        "Per ulteriori dettagli e aggiornamenti consulta la fonte indicata."
       ],
       "source": "ANSA",
-      "sourceDate": "2026-10-19T12:00:00+02:00",
-      "url": "https://videoembed.ansa.it/sito/notizie/economia/2026/10/19/porto-trieste-nei-9-mesi-movimentate-452-milioni-di-tonnellate-31_6cb9da2d-4843-4ce7-af05-7f2876f4cf60.html",
+      "sourceDate": "2026-10-20T19:10:00+02:00",
+      "url": "https://www.ansa.it/sito/notizie/topnews/index_4.shtml",
+      "theme": "crimson",
+      "eyebrow": "Mondo"
+    },
+    {
+      "id": "2026-10-21-04",
+      "category": "Mondo",
+      "title": "Francia, resta il coprifuoco per i minori in centro a Parigi",
+      "summary": "Dopo le violenze del fine settimana, a Parigi è stata confermata una misura notturna tra République e Les Halles.",
+      "facts": [
+        "Dopo le violenze del fine settimana, a Parigi è stata confermata una misura notturna tra République e Les Halles."
+      ],
+      "body": [
+        "Dopo le violenze del fine settimana, a Parigi è stata confermata una misura notturna tra République e Les Halles.",
+        "Per ulteriori dettagli e aggiornamenti consulta la fonte indicata."
+      ],
+      "source": "ANSA",
+      "sourceDate": "2026-10-20T19:08:00+02:00",
+      "url": "https://www.ansa.it/sito/notizie/topnews/index_4.shtml",
+      "theme": "crimson",
+      "eyebrow": "Mondo"
+    },
+    {
+      "id": "2026-10-21-05",
+      "category": "Economia",
+      "title": "Deficit 2025 al 3,1%, debito pubblico al 136,7% del PIL",
+      "summary": "L'ISTAT ha comunicato a Bruxelles i dati sui conti italiani del 2025, confermando le stime già diffuse.",
+      "facts": [
+        "L'ISTAT ha comunicato a Bruxelles i dati sui conti italiani del 2025, confermando le stime già diffuse."
+      ],
+      "body": [
+        "L'ISTAT ha comunicato a Bruxelles i dati sui conti italiani del 2025, confermando le stime già diffuse.",
+        "Per ulteriori dettagli e aggiornamenti consulta la fonte indicata."
+      ],
+      "source": "ANSA",
+      "sourceDate": "2026-10-21T11:08:00+02:00",
+      "url": "https://videoembed.ansa.it/sito/notizie/economia/index.shtml",
       "theme": "amber",
       "eyebrow": "Economia"
     },
     {
-      "id": "2026-10-20-7",
+      "id": "2026-10-21-06",
+      "category": "Economia",
+      "title": "Terna, consumi elettrici in aumento del 6,5% a settembre",
+      "summary": "La domanda di elettricità è salita del 6,5% rispetto all'anno precedente, anche per effetto delle temperature.",
+      "facts": [
+        "La domanda di elettricità è salita del 6,5% rispetto all'anno precedente, anche per effetto delle temperature."
+      ],
+      "body": [
+        "La domanda di elettricità è salita del 6,5% rispetto all'anno precedente, anche per effetto delle temperature.",
+        "Per ulteriori dettagli e aggiornamenti consulta la fonte indicata."
+      ],
+      "source": "ANSA",
+      "sourceDate": "2026-10-21T11:19:00+02:00",
+      "url": "https://videoembed.ansa.it/sito/notizie/economia/index.shtml",
+      "theme": "amber",
+      "eyebrow": "Economia"
+    },
+    {
+      "id": "2026-10-21-07",
       "category": "Tecnologia",
-      "title": "Nvidia porta i processori Vera nella piattaforma Modal",
-      "summary": "La società cloud per sviluppatori AI adotterà anche nuove CPU Nvidia, mantenendo una strategia con più fornitori.",
-      "facts": [],
-      "body": [
-        "La società cloud per sviluppatori AI adotterà anche nuove CPU Nvidia, mantenendo una strategia con più fornitori."
+      "title": "Google segnala disservizi cloud in Europa",
+      "summary": "Il gruppo ha segnalato problemi di rete per diversi servizi cloud europei, collegati al centro dati di Londra.",
+      "facts": [
+        "Il gruppo ha segnalato problemi di rete per diversi servizi cloud europei, collegati al centro dati di Londra."
       ],
-      "source": "Reuters",
-      "sourceDate": "2026-10-19T12:00:00+02:00",
-      "url": "https://www.reuters.com/business/nvidia-wins-fast-growing-ai-startup-modal-new-central-processors-2026-10-19/",
+      "body": [
+        "Il gruppo ha segnalato problemi di rete per diversi servizi cloud europei, collegati al centro dati di Londra.",
+        "Per ulteriori dettagli e aggiornamenti consulta la fonte indicata."
+      ],
+      "source": "ANSA",
+      "sourceDate": "2026-10-20T13:29:00+02:00",
+      "url": "https://www.ansa.it/sito/notizie/topnews/index_9.shtml",
       "theme": "cyan",
       "eyebrow": "Tecnologia"
     },
     {
-      "id": "2026-10-20-8",
-      "category": "Scienza",
-      "title": "Colite ulcerosa, nuovi dati per una terapia sperimentale",
-      "summary": "Uno studio intermedio su emvistegrast segnala miglioramenti rispetto al placebo. Sono necessari ulteriori test.",
-      "facts": [],
-      "body": [
-        "Uno studio intermedio su emvistegrast segnala miglioramenti rispetto al placebo. Sono necessari ulteriori test."
+      "id": "2026-10-21-08",
+      "category": "Tecnologia",
+      "title": "La Cina critica gli USA per le restrizioni a DeepSeek",
+      "summary": "Il ministero del Commercio cinese sostiene che le restrizioni statunitensi violino l'intesa tra Xi e Trump.",
+      "facts": [
+        "Il ministero del Commercio cinese sostiene che le restrizioni statunitensi violino l'intesa tra Xi e Trump."
       ],
-      "source": "Reuters",
-      "sourceDate": "2026-10-19T12:00:00+02:00",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/gileads-pill-succeeds-mid-stage-bowel-disease-trial-2026-10-19/",
-      "theme": "violet",
-      "eyebrow": "Scienza"
-    },
-    {
-      "id": "2026-10-20-9",
-      "category": "Sport",
-      "title": "Serie A, il Torino vince 3-0 sul campo del Parma",
-      "summary": "Doppietta di Simeone e rete di Adams nella vittoria dei granata nel posticipo.",
-      "facts": [],
       "body": [
-        "Doppietta di Simeone e rete di Adams nella vittoria dei granata nel posticipo."
+        "Il ministero del Commercio cinese sostiene che le restrizioni statunitensi violino l'intesa tra Xi e Trump.",
+        "Per ulteriori dettagli e aggiornamenti consulta la fonte indicata."
       ],
       "source": "ANSA",
-      "sourceDate": "2026-10-19T12:00:00+02:00",
-      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/19/serie-a-doppietta-di-simeone-il-torino-passa-a-parma-con-un-tris_b3d3881b-9a73-4990-b288-8689e6be7814.html",
-      "theme": "royal",
-      "eyebrow": "Sport"
+      "sourceDate": "2026-10-21T05:15:00+02:00",
+      "url": "https://www.ansa.it/sito/notizie/topnews/index_9.shtml",
+      "theme": "cyan",
+      "eyebrow": "Tecnologia"
     },
     {
-      "id": "2026-10-20-10",
+      "id": "2026-10-21-09",
       "category": "Sport",
-      "title": "Tennis, Sinner mantiene la vetta del ranking ATP",
-      "summary": "Il tennista italiano resta numero uno della classifica fino almeno al primo novembre.",
-      "facts": [],
+      "title": "Champions League, oggi Como e Inter in campo",
+      "summary": "Como-Manchester United è in programma alle 18:45 e Inter-Shakhtar Donetsk alle 21:00.",
+      "facts": [
+        "Como-Manchester United è in programma alle 18:45 e Inter-Shakhtar Donetsk alle 21:00."
+      ],
       "body": [
-        "Il tennista italiano resta numero uno della classifica fino almeno al primo novembre."
+        "Como-Manchester United è in programma alle 18:45 e Inter-Shakhtar Donetsk alle 21:00.",
+        "Per ulteriori dettagli e aggiornamenti consulta la fonte indicata."
       ],
       "source": "ANSA",
-      "sourceDate": "2026-10-19T12:00:00+02:00",
-      "url": "https://videoembed.ansa.it/sito/notizie/sport/tennis/2026/10/19/tennis-sinner-95-settimane-in-vetta-cobolli-sesto-in-classifica_8f643cd0-3a5a-47ad-91f6-29786a9e7b02.html",
+      "sourceDate": "2026-10-20T18:35:00+02:00",
+      "url": "https://videoembed.ansa.it/sito/notizie/cronaca/2026/10/20/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
       "theme": "royal",
       "eyebrow": "Sport"
     }
